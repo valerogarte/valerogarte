@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**valerogarte/valerogarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <br>
+  <a href="https://valerogarte.com">
+    <img width="200" height="200" src="https://avatars.githubusercontent.com/u/73557314" />
+  </a>
+  <br>
+  <h2>👋<br>Hi, I'm Daniel Valero!</h2>
+  <h4><b>Expert Technical Leader</b></h4>
+  <br>
+  <div>
+    <img src="https://www.drupal.org/files/Wordmark_blue_RGB.png" alt="Drupal" height="50px" />
+   </div>
+  <div>
+    <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" alt="WordPress" height="50px" />
+   </div>
+  <h5>I have a fervent <b>passion</b> for the arts, nature, and sciences from creating art and bonsai to artificial intelligence and music, extending to a fascination with astronomy, physics, and psychology. Above all, my heart belongs to <b>Computer Science</b>. This website is a window into my world and passions.</h5>
+  <a href="https://valerogarte.com" style="color:#ff9e1b;" target="_blank">
+    <img src="https://img.shields.io/badge/VALEROGARTE-web-ff9e1b"/>
+  </a>
+  <hr>
+  <h6 align="center">working at <b>Indra</b> :computer: from Madrid</h6>
+</div>
