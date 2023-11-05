@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <a href="https://valerogarte.com">
-    <img width="200" height="200" src="https://avatars.githubusercontent.com/u/73557314" />
+    <img height="100" src="https://media.licdn.com/dms/image/C4E16AQH1WeF7fDaN9g/profile-displaybackgroundimage-shrink_350_1400/0/1653039371196?e=1704931200&v=beta&t=1FyrXgYf-XB4CvDbXg9QFLZQJQNH7N0SbK_Bx_YdRYE" />
   </a>
   <br>
   <h2>👋<br>Hi, I'm Daniel Valero!</h2>
