@@ -15,14 +15,64 @@
     <i>
       I am deeply passionate about the arts, nature, and sciences. From creating art and bonsai to exploring artificial intelligence and music, 
       my interests span a wide range of disciplines, including astronomy, physics, and psychology. 
-      At the core of it all, my greatest devotion lies with Computer Science. This website offers a glimpse into my world and the passions that drive me.
+      At the core of it all, my greatest devotion lies with Computer Science. 
+      This website offers a glimpse into my world and the passions that drive me.
     </i>
   </p>
   <a href="https://valerogarte.com" target="_blank">
     <img src="https://img.shields.io/badge/VALEROGARTE-Visit%20My%20Website-ff9e1b" alt="Visit Valerogarte Website"/>
   </a>
   <hr>
-  <p>
+  <h3 align="center">🛠️ Tech Stack</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal"/>
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </p>
+  <h3 align="center">🌟 Featured Projects</h3>
+  <ul>
+    <li>
+      <a href="https://github.com/valerogarte/drupal-custom-module">
+        <b>Custom Drupal Module</b>
+      </a> - A module for enhancing content management in Drupal.
+    </li>
+    <li>
+      <a href="https://github.com/valerogarte/wordpress-plugin">
+        <b>WordPress Plugin</b>
+      </a> - A custom plugin for WordPress to extend functionality.
+    </li>
+    <li>
+      <a href="https://github.com/valerogarte/machine-learning-demo">
+        <b>AI Demo</b>
+      </a> - A simple project using Python to demonstrate machine learning concepts.
+    </li>
+  </ul>
+  <h3 align="center">📊 GitHub Stats</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=valerogarte&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=valerogarte&theme=radical" alt="GitHub Streak" />
+  </p>
+  <hr>
+  <h3 align="center">📬 Let's Connect</h3>
+  <p align="center">
+    <a href="https://linkedin.com/in/valerogarte" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:daniel@valerogarte.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+  <hr>
+  <h3 align="center">💡 Philosophy</h3>
+  <p align="center"><i>"A la felicidad de la luz."</i></p>
+  <hr>
+  <p align="center">
     <small>Working at <b>Indra - Minsait</b> 💻 from Madrid</small>
   </p>
 </div>
