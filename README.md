@@ -7,10 +7,6 @@
   <h2>👋<br>Hi, I'm Daniel Valero!</h2>
   <h4><b>Expert Technical Leader</b></h4>
   <br>
-  <div>
-    <img src="https://www.drupal.org/files/Wordmark_blue_RGB.png" alt="Drupal" height="50px" />
-    <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" alt="WordPress" height="50px" style="margin-left: 10px;" />
-  </div>
   <p align="center">
     <i>
       I am deeply passionate about the arts, nature, and sciences. From creating art and bonsai to exploring artificial intelligence and music, 
@@ -40,25 +36,7 @@
         <b>Custom Drupal Module</b>
       </a> - A module for enhancing content management in Drupal.
     </li>
-    <li>
-      <a href="https://github.com/valerogarte/wordpress-plugin">
-        <b>WordPress Plugin</b>
-      </a> - A custom plugin for WordPress to extend functionality.
-    </li>
-    <li>
-      <a href="https://github.com/valerogarte/machine-learning-demo">
-        <b>AI Demo</b>
-      </a> - A simple project using Python to demonstrate machine learning concepts.
-    </li>
   </ul>
-  <h3 align="center">📊 GitHub Stats</h3>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=valerogarte&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=valerogarte&theme=radical" alt="GitHub Streak" />
-  </p>
-  <hr>
   <h3 align="center">📬 Let's Connect</h3>
   <p align="center">
     <a href="https://linkedin.com/in/valerogarte" target="_blank">
