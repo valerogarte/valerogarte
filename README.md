@@ -13,7 +13,7 @@
   <div>
     <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" alt="WordPress" height="50px" />
    </div>
-  <h5>I have a fervent <b>passion</b> for the arts, nature, and sciences from creating art and bonsai to artificial intelligence and music, extending to a fascination with astronomy, physics, and psychology. Above all, my heart belongs to <b>Computer Science</b>. This website is a window into my world and passions.</h5>
+  <h5>I am deeply passionate about the arts, nature, and sciences. From creating art and bonsai to exploring artificial intelligence and music, my interests span a wide range of disciplines, including astronomy, physics, and psychology. At the core of it all, my greatest devotion lies with Computer Science. This website offers a glimpse into my world and the passions that drive me.</h5>
   <a href="https://valerogarte.com" style="color:#ff9e1b;" target="_blank">
     <img src="https://img.shields.io/badge/VALEROGARTE-web-ff9e1b"/>
   </a>
