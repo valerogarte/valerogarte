@@ -18,5 +18,5 @@
     <img src="https://img.shields.io/badge/VALEROGARTE-web-ff9e1b"/>
   </a>
   <hr>
-  <h6 align="center">working at <b>Indra</b> :computer: from Madrid</h6>
+  <h6 align="center">working at <b>Indra - Minsait</b> :computer: from Madrid</h6>
 </div>
