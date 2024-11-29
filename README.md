@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   </p>
-  <h3 align="center">🌟 Featured Projects</h3>
+  <!--<h3 align="center">🌟 Featured Projects</h3>
   <ul align="left">
     <li>
       <a href="https://github.com/valerogarte/drupal-custom-module">
@@ -47,7 +47,7 @@
         <b>AI Demo</b>
       </a> - A simple project demonstrating machine learning concepts.
     </li>
-  </ul>
+  </ul>-->
   <h3 align="center">📬 Let's Connect</h3>
   <p align="center">
     <a href="https://linkedin.com/in/valerogarte" target="_blank">
