@@ -62,6 +62,6 @@
   <p align="center"><i>"A la felicidad de la luz."</i></p>
   <hr>
   <p align="center">
-    <small>Working at <b><img title="Minsait" src="https://valerogarte.com/sites/default/files/minsait.png" width="150px"></b> 💻 from Madrid</small>
+    <small>Working at  <img title="Minsait" src="https://valerogarte.com/sites/default/files/minsait.png" width="150px">   💻 from Madrid</small>
   </p>
 </div>
