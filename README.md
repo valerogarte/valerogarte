@@ -54,14 +54,12 @@
   <p align="center">
     <?xml version="1.0" encoding="UTF-8"?>
 <svg id="uuid-0c24bfaa-b08a-47a4-9f9c-945b0de90d67" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6000 571.08">
-  <defs>
         <style>
           .uuid-d52d7968-8e20-4fbf-9a1c-712a155476af {
             fill: #480e2a;
             stroke-width: 0px;
           }
         </style>
-      </defs>
       <g id="uuid-3d218a9a-bc3a-4c02-8dab-a626978d399a" data-name="Capa 1">
         <g>
           <g>
