@@ -15,7 +15,7 @@
     <i>
       I am deeply passionate about the arts, nature, and sciences. From creating art and bonsai to exploring artificial intelligence and music, 
       my interests span a wide range of disciplines, including astronomy, physics, and psychology. 
-      At the core of it all, my greatest devotion lies with Computer Science. 
+      At the core of it all, my greatest devotion lies with Computer Science.<br><br>
       This website offers a glimpse into my world and the passions that drive me.
     </i>
   </p>
