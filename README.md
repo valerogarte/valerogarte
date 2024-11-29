@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <a href="https://valerogarte.com">
-    <img height="100" src="https://valerogarte.com/sites/default/files/valerogarte-logo-negro.png" />
+    <img height="100" src="[https://valerogarte.com/sites/default/files/valerogarte-logo-negro.png](https://valerogarte.com/sites/default/files/pwa/pwa.png)" style="border-radius: 10px;" />
   </a>
   <br>
   <h2>👋<br>Hi, I'm Daniel Valero!</h2>
